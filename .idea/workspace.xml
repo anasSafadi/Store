@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f78fed3-3826-4f0b-b82a-5f7e6ebc8e23" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/storage/logs/laravel.log">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Console/Kernel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+              <folding>
+                <element signature="e#31#67#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get_project_information</find>
+      <find>create_product</find>
+      <find>trader/get/all/category</find>
+      <find>index/Accept/ads/sm</find>
+      <find>accept_sms_ads_order</find>
+      <find>store_free_number</find>
+      <find>STAT</find>
+      <find>رقم الهاتف</find>
+      <find>stat</find>
+      <find>upda</find>
+      <find>state</find>
+      <find>فعال</find>
+      <find>states</find>
+      <find>حالة الرقم</find>
+      <find>setting-sms</find>
+      <find>index/Accept/ads/sms/</find>
+      <find>STORE</find>
+      <find>sms/ads/order</find>
+      <find>trader/register/sms/ads/orde</find>
+      <find>/index/Accept/ads/sms</find>
+      <find>index/Accept/ads/sms</find>
+      <find>insder loop</find>
+      <find>no phones</find>
+      <find>count_receivers</find>
+      <find>insder loop</find>
+      <find>index/get/ads/sms</find>
+      <find>where</find>
+      <find>Table with stripped rows</find>
+      <find>طلبات التسويق المقبولة</find>
+      <find>software_count_receivers</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/database/migrations/2023_03_08_200050_create_whatsapp_msg_table.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/app/Models/Admin/Category.php" />
+        <option value="$PROJECT_DIR$/resources/views/layout/Cover.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layout/sidebar/admin_side_bare.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/add_by_admin/add_seller.blade.php" />
+        <option value="$PROJECT_DIR$/app/Models/Seller/Seller.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/Place/view_all_seller_place.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/orders/Pool_ordersController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/orders/Seller_ordersController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/RatingController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/UserController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/Save_byController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/AddbyadminController.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/add_by_admin/add_pool.blade.php" />
+        <option value="$PROJECT_DIR$/routes/admin.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/Place/view_all_pool_place.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/Place/pending_seller_place.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/add_by_admin/list_seller_place_foradd.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/Only_get_request.php" />
+        <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2023_03_24_120522_create_offer_pool_table.php" />
+        <option value="$PROJECT_DIR$/app/Http/Resources/Offers/Pooloffers.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/sellerController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Resources/Offers/seller_place_offer.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/informationController.php" />
+        <option value="$PROJECT_DIR$/app/Providers/test.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/resources/views/test.blade.php" />
+        <option value="$PROJECT_DIR$/app/Providers/LogsServiceProvider.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/app/Services/Printservice.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" />
+        <option value="$PROJECT_DIR$/app/Providers/TestServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/AuthController.php" />
+        <option value="$PROJECT_DIR$/routes/Api-user.php" />
+        <option value="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
+        <option value="$PROJECT_DIR$/routes/Api.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/Traders/TradersController.php" />
+        <option value="$PROJECT_DIR$/routes/Api-seller.php" />
+        <option value="$PROJECT_DIR$/app/Models/Notifications/Ads_sms_orders.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/resources/views/admin/Notifications/setting_sms.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/livewire/admin/notifications.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/Traders/AdsController.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2023_08_01_115916_create_history_sms_table.php" />
+        <option value="$PROJECT_DIR$/app/Jobs/Admin/send_freesms_ads.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Notification/Admin/NotificationController.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/Notifications/orders_sms_ads.blade.php" />
+        <option value="$PROJECT_DIR$/app/Console/Kernel.php" />
+        <option value="$PROJECT_DIR$/storage/logs/laravel.log" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/league/config" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/clock" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/nyholm/psr7" />
+      <path value="$PROJECT_DIR$/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/php-http/message-factory" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/defuse/php-encryption" />
+      <path value="$PROJECT_DIR$/vendor/laravel/passport" />
+      <path value="$PROJECT_DIR$/vendor/league/uri-interfaces" />
+      <path value="$PROJECT_DIR$/vendor/league/uri" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-server" />
+      <path value="$PROJECT_DIR$/vendor/league/event" />
+      <path value="$PROJECT_DIR$/vendor/php-flasher/flasher" />
+      <path value="$PROJECT_DIR$/vendor/php-flasher/flasher-laravel" />
+      <path value="$PROJECT_DIR$/vendor/yoeunes/toastr" />
+      <path value="$PROJECT_DIR$/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/vendor/livewire/livewire" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1150" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectId" id="2MjYbdL1zbsorjtzvEmcRJSxvBO" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trip" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trip" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Console" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trip" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trip" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trip" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="Notification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trip" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="Notification" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trip" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Livewire" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trip" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Jobs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trip" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Jobs" type="462c0819:PsiDirectoryNode" />
+              <item name="Admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trip" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trip" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trip" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trip" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../piter" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abo dalal\Desktop\trip\app\Models\Notifications" />
+      <recent name="C:\Users\abo dalal\Desktop\trip\resources\views\admin\Place" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abo dalal\Desktop\Last projects\trip\routes" />
+      <recent name="C:\Users\abo dalal\Desktop\Last projects\trip\app\Http\Middleware" />
+      <recent name="C:\Users\abo dalal\Desktop\trip\resources\views\admin\add_by_admin\offers" />
+      <recent name="C:\Users\abo dalal\Desktop\trip\public" />
+      <recent name="C:\Users\abo dalal\Desktop\trip\resources\views\admin\Place" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f78fed3-3826-4f0b-b82a-5f7e6ebc8e23" name="Default Changelist" comment="" />
+      <created>1678282530818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678282530818</updated>
+      <workItem from="1678282532124" duration="2941000" />
+      <workItem from="1678290529726" duration="6105000" />
+      <workItem from="1678302424177" duration="8583000" />
+      <workItem from="1678371418848" duration="4052000" />
+      <workItem from="1678378846040" duration="4515000" />
+      <workItem from="1678454227412" duration="3310000" />
+      <workItem from="1678457996919" duration="9520000" />
+      <workItem from="1678469187870" duration="1165000" />
+      <workItem from="1678470779483" duration="432000" />
+      <workItem from="1678478808548" duration="3629000" />
+      <workItem from="1678523074308" duration="5237000" />
+      <workItem from="1678557756379" duration="3910000" />
+      <workItem from="1678611311086" duration="5984000" />
+      <workItem from="1678617470011" duration="1353000" />
+      <workItem from="1678619127063" duration="175000" />
+      <workItem from="1678623156298" duration="232000" />
+      <workItem from="1678626532695" duration="404000" />
+      <workItem from="1678647644260" duration="5471000" />
+      <workItem from="1678653192917" duration="255000" />
+      <workItem from="1678657572330" duration="609000" />
+      <workItem from="1678658336143" duration="102000" />
+      <workItem from="1678722067815" duration="1433000" />
+      <workItem from="1678723630710" duration="17000" />
+      <workItem from="1678723668052" duration="27000" />
+      <workItem from="1678728619952" duration="1747000" />
+      <workItem from="1678742215330" duration="1184000" />
+      <workItem from="1678746999357" duration="1736000" />
+      <workItem from="1678794001847" duration="3948000" />
+      <workItem from="1678806333856" duration="174000" />
+      <workItem from="1678806816273" duration="69000" />
+      <workItem from="1678809887077" duration="3685000" />
+      <workItem from="1678823783843" duration="4658000" />
+      <workItem from="1678829219689" duration="109000" />
+      <workItem from="1678883500575" duration="755000" />
+      <workItem from="1678884991770" duration="49000" />
+      <workItem from="1678893654052" duration="3838000" />
+      <workItem from="1678898520155" duration="279000" />
+      <workItem from="1678899192217" duration="1101000" />
+      <workItem from="1678905068658" duration="46000" />
+      <workItem from="1678908269104" duration="385000" />
+      <workItem from="1679004568348" duration="1214000" />
+      <workItem from="1679065235581" duration="8402000" />
+      <workItem from="1679082503221" duration="2178000" />
+      <workItem from="1679125780892" duration="681000" />
+      <workItem from="1679128350532" duration="5132000" />
+      <workItem from="1679153605845" duration="6079000" />
+      <workItem from="1679164024535" duration="598000" />
+      <workItem from="1679165416731" duration="2495000" />
+      <workItem from="1679210683963" duration="192000" />
+      <workItem from="1679211637390" duration="1334000" />
+      <workItem from="1679245778755" duration="5515000" />
+      <workItem from="1679252061147" duration="730000" />
+      <workItem from="1679254321983" duration="2605000" />
+      <workItem from="1679256974174" duration="79000" />
+      <workItem from="1679305872699" duration="1901000" />
+      <workItem from="1679324054432" duration="6078000" />
+      <workItem from="1679336160080" duration="2090000" />
+      <workItem from="1679339599838" duration="2683000" />
+      <workItem from="1679342815286" duration="2253000" />
+      <workItem from="1679345162249" duration="172000" />
+      <workItem from="1679346643784" duration="330000" />
+      <workItem from="1679347753327" duration="971000" />
+      <workItem from="1679398782103" duration="2307000" />
+      <workItem from="1679401605274" duration="1008000" />
+      <workItem from="1679402661697" duration="57000" />
+      <workItem from="1679407759670" duration="1799000" />
+      <workItem from="1679424337110" duration="4967000" />
+      <workItem from="1679430474452" duration="626000" />
+      <workItem from="1679492453464" duration="1781000" />
+      <workItem from="1679494455688" duration="1767000" />
+      <workItem from="1679500965380" duration="1091000" />
+      <workItem from="1679502438214" duration="315000" />
+      <workItem from="1679502772026" duration="1779000" />
+      <workItem from="1679504586416" duration="1785000" />
+      <workItem from="1679506634264" duration="184000" />
+      <workItem from="1679506919153" duration="141000" />
+      <workItem from="1679512433293" duration="5857000" />
+      <workItem from="1679576695247" duration="6619000" />
+      <workItem from="1679583386232" duration="2000" />
+      <workItem from="1679583543761" duration="46000" />
+      <workItem from="1679659187699" duration="7263000" />
+      <workItem from="1679668660710" duration="3413000" />
+      <workItem from="1679688151243" duration="5509000" />
+      <workItem from="1679729447278" duration="1207000" />
+      <workItem from="1679732240162" duration="5188000" />
+      <workItem from="1679777627111" duration="27000" />
+      <workItem from="1679785876262" duration="57000" />
+      <workItem from="1679825383463" duration="5253000" />
+      <workItem from="1679831391582" duration="656000" />
+      <workItem from="1679906649075" duration="4010000" />
+      <workItem from="1679912486301" duration="4421000" />
+      <workItem from="1679947393178" duration="4844000" />
+      <workItem from="1680017239231" duration="1005000" />
+      <workItem from="1680018386795" duration="749000" />
+      <workItem from="1680036938566" duration="4325000" />
+      <workItem from="1680100006895" duration="4485000" />
+      <workItem from="1680125992338" duration="1172000" />
+      <workItem from="1680201050247" duration="3944000" />
+      <workItem from="1680209635298" duration="4628000" />
+      <workItem from="1680271402776" duration="3023000" />
+      <workItem from="1680293057897" duration="6248000" />
+      <workItem from="1680337223166" duration="5817000" />
+      <workItem from="1680383321307" duration="2981000" />
+      <workItem from="1680421649122" duration="420000" />
+      <workItem from="1680424493858" duration="102000" />
+      <workItem from="1680463255665" duration="3506000" />
+      <workItem from="1680466832858" duration="23000" />
+      <workItem from="1680472134032" duration="2310000" />
+      <workItem from="1680617769606" duration="4655000" />
+      <workItem from="1680622670019" duration="303000" />
+      <workItem from="1680640609165" duration="3475000" />
+      <workItem from="1680739525540" duration="4777000" />
+      <workItem from="1680814289475" duration="2374000" />
+      <workItem from="1680822716672" duration="2607000" />
+      <workItem from="1681002233502" duration="779000" />
+      <workItem from="1681051508984" duration="3668000" />
+      <workItem from="1681060242349" duration="798000" />
+      <workItem from="1681065243560" duration="3441000" />
+      <workItem from="1681139374271" duration="3530000" />
+      <workItem from="1681149072660" duration="273000" />
+      <workItem from="1681170778569" duration="5642000" />
+      <workItem from="1681224303765" duration="5249000" />
+      <workItem from="1681238456205" duration="135000" />
+      <workItem from="1681258428784" duration="4307000" />
+      <workItem from="1681310665284" duration="50000" />
+      <workItem from="1681314208538" duration="1359000" />
+      <workItem from="1681324964628" duration="1478000" />
+      <workItem from="1681340113834" duration="21000" />
+      <workItem from="1681397455518" duration="50000" />
+      <workItem from="1681681591037" duration="697000" />
+      <workItem from="1682270569877" duration="1492000" />
+      <workItem from="1682284504544" duration="19000" />
+      <workItem from="1682538811499" duration="1769000" />
+      <workItem from="1682540971160" duration="1822000" />
+      <workItem from="1682697313106" duration="1246000" />
+      <workItem from="1683043213136" duration="943000" />
+      <workItem from="1683047064830" duration="1778000" />
+      <workItem from="1683048883428" duration="1778000" />
+      <workItem from="1683050689122" duration="1782000" />
+      <workItem from="1683052524184" duration="727000" />
+      <workItem from="1683147894204" duration="9000" />
+      <workItem from="1683213553997" duration="1764000" />
+      <workItem from="1683215378573" duration="1103000" />
+      <workItem from="1683316415888" duration="8000" />
+      <workItem from="1683573472157" duration="1757000" />
+      <workItem from="1683575263800" duration="1775000" />
+      <workItem from="1683577087026" duration="701000" />
+      <workItem from="1683638484966" duration="1770000" />
+      <workItem from="1683640295436" duration="1460000" />
+      <workItem from="1683642673822" duration="1788000" />
+      <workItem from="1683644493717" duration="46000" />
+      <workItem from="1683647344052" duration="1772000" />
+      <workItem from="1683649150445" duration="686000" />
+      <workItem from="1683658874615" duration="2052000" />
+      <workItem from="1683661198756" duration="1667000" />
+      <workItem from="1683736524674" duration="1777000" />
+      <workItem from="1683738333714" duration="1778000" />
+      <workItem from="1683740145194" duration="731000" />
+      <workItem from="1683749281492" duration="1778000" />
+      <workItem from="1683751102439" duration="1781000" />
+      <workItem from="1683848132663" duration="749000" />
+      <workItem from="1683902772873" duration="536000" />
+      <workItem from="1683903334335" duration="29000" />
+      <workItem from="1683921555064" duration="1760000" />
+      <workItem from="1683923428352" duration="3000" />
+      <workItem from="1683931691434" duration="683000" />
+      <workItem from="1684093544329" duration="1766000" />
+      <workItem from="1684095365278" duration="1774000" />
+      <workItem from="1684097233135" duration="360000" />
+      <workItem from="1684108224736" duration="10000" />
+      <workItem from="1684162985554" duration="1635000" />
+      <workItem from="1684164749062" duration="1779000" />
+      <workItem from="1684166558084" duration="1865000" />
+      <workItem from="1684170900819" duration="1792000" />
+      <workItem from="1684172724351" duration="783000" />
+      <workItem from="1684262300163" duration="1801000" />
+      <workItem from="1684279475044" duration="430000" />
+      <workItem from="1684329532945" duration="1778000" />
+      <workItem from="1684331355413" duration="1032000" />
+      <workItem from="1684332612919" duration="114000" />
+      <workItem from="1684336686374" duration="1777000" />
+      <workItem from="1684338499125" duration="824000" />
+      <workItem from="1684343147801" duration="268000" />
+      <workItem from="1684413831019" duration="1774000" />
+      <workItem from="1684415645093" duration="669000" />
+      <workItem from="1684419832372" duration="1701000" />
+      <workItem from="1684423152320" duration="1448000" />
+      <workItem from="1684424680570" duration="94000" />
+      <workItem from="1684446116588" duration="1195000" />
+      <workItem from="1684493224558" duration="708000" />
+      <workItem from="1684500837542" duration="1761000" />
+      <workItem from="1684502663523" duration="1229000" />
+      <workItem from="1684510317351" duration="36000" />
+      <workItem from="1684510635300" duration="1750000" />
+      <workItem from="1684512443978" duration="2167000" />
+      <workItem from="1684515755445" duration="1796000" />
+      <workItem from="1684560105515" duration="374000" />
+      <workItem from="1684572227291" duration="598000" />
+      <workItem from="1684687836824" duration="1762000" />
+      <workItem from="1684689658899" duration="1770000" />
+      <workItem from="1684691471246" duration="1248000" />
+      <workItem from="1684769826808" duration="1785000" />
+      <workItem from="1684771655242" duration="1790000" />
+      <workItem from="1684773748070" duration="903000" />
+      <workItem from="1684776155387" duration="699000" />
+      <workItem from="1684788158777" duration="1409000" />
+      <workItem from="1684836749626" duration="1134000" />
+      <workItem from="1684858114378" duration="1772000" />
+      <workItem from="1684859968360" duration="1776000" />
+      <workItem from="1684926113683" duration="211000" />
+      <workItem from="1684926472924" duration="8000" />
+      <workItem from="1684940207904" duration="1750000" />
+      <workItem from="1684942009222" duration="1942000" />
+      <workItem from="1684946210536" duration="1804000" />
+      <workItem from="1684948067930" duration="1177000" />
+      <workItem from="1685012551740" duration="1798000" />
+      <workItem from="1685014388490" duration="241000" />
+      <workItem from="1685024959454" duration="1668000" />
+      <workItem from="1685032197444" duration="1831000" />
+      <workItem from="1685034081741" duration="1840000" />
+      <workItem from="1685204992125" duration="23000" />
+      <workItem from="1686050374311" duration="915000" />
+      <workItem from="1686137914774" duration="1549000" />
+      <workItem from="1686145271552" duration="607000" />
+      <workItem from="1686156607593" duration="1785000" />
+      <workItem from="1686158424171" duration="82000" />
+      <workItem from="1686325020537" duration="385000" />
+      <workItem from="1686491158480" duration="602000" />
+      <workItem from="1687045020535" duration="32000" />
+      <workItem from="1688579824171" duration="441000" />
+      <workItem from="1688654475848" duration="16000" />
+      <workItem from="1690562920100" duration="1156000" />
+      <workItem from="1690634801712" duration="3628000" />
+      <workItem from="1690643565530" duration="3046000" />
+      <workItem from="1690652503226" duration="1692000" />
+      <workItem from="1690713483931" duration="5526000" />
+      <workItem from="1690724047792" duration="2990000" />
+      <workItem from="1690737465208" duration="4852000" />
+      <workItem from="1690802798821" duration="2234000" />
+      <workItem from="1690807515568" duration="168000" />
+      <workItem from="1690809028054" duration="2899000" />
+      <workItem from="1690818977859" duration="3221000" />
+      <workItem from="1690880911155" duration="4375000" />
+      <workItem from="1690890063389" duration="2721000" />
+      <workItem from="1690906002156" duration="2356000" />
+      <workItem from="1690918847737" duration="2967000" />
+      <workItem from="1690975739931" duration="7000" />
+      <workItem from="1690982901553" duration="1619000" />
+      <workItem from="1690984792548" duration="435000" />
+      <workItem from="1691069833589" duration="2992000" />
+      <workItem from="1691087275232" duration="5040000" />
+      <workItem from="1691152986061" duration="2911000" />
+      <workItem from="1691156026161" duration="52000" />
+      <workItem from="1691162589634" duration="729000" />
+      <workItem from="1691165183497" duration="1546000" />
+      <workItem from="1691168059401" duration="1014000" />
+      <workItem from="1691180330244" duration="3015000" />
+      <workItem from="1691254400221" duration="2503000" />
+      <workItem from="1691405650809" duration="46000" />
+      <workItem from="1691405698856" duration="685000" />
+      <workItem from="1691426938491" duration="4941000" />
+      <workItem from="1691491981648" duration="2838000" />
+      <workItem from="1691494943177" duration="25000" />
+      <workItem from="1691692304739" duration="136000" />
+      <workItem from="1691754274877" duration="20000" />
+      <workItem from="1692366983533" duration="952000" />
+      <workItem from="1692367972013" duration="15000" />
+      <workItem from="1692641457431" duration="1110000" />
+      <workItem from="1692719411560" duration="24000" />
+      <workItem from="1693040669008" duration="845000" />
+      <workItem from="1693041730183" duration="469000" />
+      <workItem from="1693042231990" duration="4000" />
+      <workItem from="1693042260231" duration="5000" />
+      <workItem from="1693042267113" duration="952000" />
+      <workItem from="1693298261987" duration="4590000" />
+      <workItem from="1693309953431" duration="7243000" />
+      <workItem from="1693381174456" duration="12218000" />
+      <workItem from="1693465117068" duration="9199000" />
+      <workItem from="1693475576209" duration="611000" />
+      <workItem from="1693479722950" duration="6000" />
+      <workItem from="1693829441207" duration="4198000" />
+      <workItem from="1693894929049" duration="69000" />
+      <workItem from="1693997260432" duration="2636000" />
+      <workItem from="1694000407433" duration="632000" />
+      <workItem from="1694001213211" duration="22000" />
+      <workItem from="1694067454140" duration="6908000" />
+      <workItem from="1694074449976" duration="6489000" />
+      <workItem from="1694083985850" duration="10861000" />
+      <workItem from="1694241776218" duration="22000" />
+      <workItem from="1694246274048" duration="44000" />
+      <workItem from="1694246319244" duration="4758000" />
+      <workItem from="1694252110718" duration="31000" />
+      <workItem from="1694261697675" duration="1451000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="417093000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.29395974" />
+      <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.26979867" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32577905" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" weight="0.2917847" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932885" weight="0.15722379" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25771812" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32668713" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" weight="0.2917847" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932885" weight="0.15722379" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Admin/AdminController.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/admin/Place/view_all_seller_place.blade.php</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Admin/AddbyadminController.php</url>
+          <line>314</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/admin/add_by_admin/offers/view_add_offer_pool.blade.php</url>
+          <line>81</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Admin/AddbyadminController.php</url>
+          <line>168</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Admin/AddbyadminController.php</url>
+          <line>100</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Admin/AddbyadminController.php</url>
+          <line>105</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Admin/AddbyadminController.php</url>
+          <line>113</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/owner/index.blade.php</url>
+          <line>69</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/owner/index.blade.php</url>
+          <line>239</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Models/Seller/Place.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/seller/view_my_products.blade.php</url>
+          <line>134</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Api/orders/Pool_ordersController.php</url>
+          <line>90</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Api/orders/Pool_ordersController.php</url>
+          <line>116</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/seller/index.blade.php</url>
+          <line>187</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Admin/OffersController.php</url>
+          <line>39</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/admin/Place/view_all_pool_place.blade.php</url>
+          <line>104</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/AuthController.php</url>
+          <line>226</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Api/orders/Seller_ordersController.php</url>
+          <line>178</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Api/orders/Seller_ordersController.php</url>
+          <line>298</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/welcome.blade.php</url>
+          <line>1</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/admin/Notifications/send_sms_notification.blade.php</url>
+          <line>48</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Api/AuthController.php</url>
+          <line>95</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/admin/Notifications/orders_sms_ads.blade.php</url>
+          <line>82</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/admin/add_by_admin/add_pool.blade.php</url>
+          <line>281</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/admin/add_by_admin/add_pool.blade.php</url>
+          <line>305</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Api/Traders/TradersController.php</url>
+          <line>234</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Notification/Admin/NotificationController.php</url>
+          <line>49</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Only_get_request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Only_post_request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#39#51#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="73" column="25" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2023_03_24_120522_create_offer_pool_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/OffersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="98" column="20" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Resources/Offers/Pooloffers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="33" column="60" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/sellerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="47" column="60" selection-start-line="47" selection-start-column="60" selection-end-line="47" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/OfferController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="57" column="83" selection-start-line="57" selection-start-column="83" selection-end-line="57" selection-end-column="83" />
+          <folding>
+            <element signature="e#44#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Resources/Offers/seller_place_offer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2023_03_08_133732_create_seller_place_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/informationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="188" column="31" lean-forward="true" selection-start-line="188" selection-start-column="31" selection-end-line="188" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/EventServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="e#33#69#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/test.php" />
+    <entry file="file://$PROJECT_DIR$/app/Providers/LogsServiceProvider.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/test.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="177" column="31" lean-forward="true" selection-start-line="177" selection-start-column="31" selection-end-line="177" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Services/Printservice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/TestServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="e#33#63#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="27" />
+          <folding>
+            <element signature="e#40#70#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="138" column="38" lean-forward="true" selection-start-line="138" selection-start-column="38" selection-end-line="138" selection-end-column="38" />
+          <folding>
+            <element signature="e#3041#5843#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/RouteServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="56" column="52" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/Api-user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#16#76#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/Api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="74" column="34" selection-start-line="74" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Owner/Place.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Seller/Seller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Seller/Place.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Onlyseller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/Traders/TradersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="136" column="45" lean-forward="true" selection-start-line="136" selection-start-column="45" selection-end-line="136" selection-end-column="45" />
+          <folding>
+            <element signature="e#52#88#0#PHP" expanded="true" />
+            <element signature="e#775#3511#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Seller/sub_category_seller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2023_03_08_133738_create_sub_category_seller_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/Notifications/setting_sms.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="69" column="51" lean-forward="true" selection-start-line="69" selection-start-column="51" selection-end-line="69" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Livewire/admin/notifications.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/livewire/admin/notifications.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="123" column="122" selection-start-line="123" selection-start-column="122" selection-end-line="123" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/seller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="97" selection-start-line="24" selection-start-column="97" selection-end-line="24" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/Traders/AdsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="40" column="16" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/Api-seller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#7#63#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Notifications/History_sms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2023_08_01_115916_create_history_sms_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+          <folding>
+            <element signature="e#7#59#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Notifications/Ads_sms_orders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#44#73#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Notification/Admin/NotificationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/Notifications/orders_sms_ads.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Jobs/Admin/send_freesms_ads.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/logs/laravel.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Console/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding>
+            <element signature="e#31#67#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

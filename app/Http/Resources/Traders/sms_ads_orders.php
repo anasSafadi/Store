@@ -14,21 +14,22 @@ class sms_ads_orders extends JsonResource
      */
     public function toArray($request)
     {
-        if ($this->states=="pending"){
-            $this->states="قيد الانتظار";
+        if ($this->status=="pending"){
+            $this->status="قيد الانتظار";
 
-        }elseif($this->states=="accept"){
+        }elseif($this->status=="accept"){
             $this->states="تم قبول الاعلان -تم الارسال";
 
-        }elseif($this->states=="reject"){
-            $this->states="مرفوض";
+        }elseif($this->status=="reject"){
+            $this->status="مرفوض";
 
         }else{
 
         }
         return [
             "message"=>$this->message_of_ads,
-            "states_of_ads_order"=>$this->states
+            "states_of_ads_order"=>$this->status,
+            "count_receivers_Ads"=>$this->software_count_receivers
         ];
     }
 }

@@ -29,8 +29,8 @@ class testMail extends Mailable
      */
     public function build()
     {
-        $code=$this->code;
-        return $this->view("welcome",compact('code'));
+//        $code=$this->code;
+//        return $this->view("welcome",compact('code'));
 
     }
 }

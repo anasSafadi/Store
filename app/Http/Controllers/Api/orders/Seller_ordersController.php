@@ -9,6 +9,7 @@ use App\Models\Seller\Order_seller;
 use App\Models\Seller\Place as seller_place;
 
 
+
 use App\Models\Seller\Seller_offers;
 use App\Models\Seller\seller_product;
 use Carbon\Carbon;
@@ -362,6 +363,12 @@ class Seller_ordersController extends Controller
         else{ return response()->json(['status'=>false,'msg' => 'ERROR USER ID']);
         }
 
+    }
+    public function get_traders_orders(){
+        return 'ads';
+        $id=auth("seller-api")->user()->id;
+        $palce=seller_place::where('','')->first();
+        $orders=Order_seller::where("",$id)->get();
     }
 
 

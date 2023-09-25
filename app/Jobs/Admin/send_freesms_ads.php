@@ -26,6 +26,7 @@ class send_freesms_ads implements ShouldQueue
     public  $the_ads;
     public function __construct($ads)
     {
+
         $this->the_ads=$ads;
 
     }
@@ -43,6 +44,7 @@ class send_freesms_ads implements ShouldQueue
 
 
         $msg=$this->the_ads->message_of_ads; //الرسالة
+        Log::info('RUNING BEFOR LOOP');
 
         for($i=0;$i< $count_recivers;$i++){
             Log::info("insder loop");

@@ -73,7 +73,6 @@ Route::post('/who_iam',[informationController::class,'who_iam']);
 
 
 Route::middleware(['Api','Only_post_request'])->group(function () {
-    Route::any('/person/login',[AuthController::class,'login']);
     Route::any('/user/active/while-register',[AuthController::class,'active_user_while_register']);
 
 
@@ -84,5 +83,8 @@ Route::middleware(['Api','Only_post_request'])->group(function () {
     Route::any('/user/logout',[AuthController::class,'logout']);
 
 });
+
+
+Route::any('/person/login',[AuthController::class,'login']);
 
 

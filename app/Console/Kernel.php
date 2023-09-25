@@ -27,7 +27,7 @@ class Kernel extends ConsoleKernel
             Log::info("change software status");
         }
         else{
-            Log::info("Run");
+            Log::info('RUNING');
          $schedule->job(new send_freesms_ads($ads))->everyMinute();}
     }}
 

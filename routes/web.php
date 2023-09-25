@@ -27,9 +27,12 @@ Route::get("/logout",[AuthController::class,"logout"])->name('logout');
 
 Route::post("/upload_files_from_owner",[filesController::class,"upload_files_from_owner"])->middleware("throttle:3,1")->name("file_pond");
 
-Route::get("/test",function (){
-    \Illuminate\Support\Facades\Mail::to("MoatasemKaron99@gmail.com")->send(new \App\Mail\testMail());
-    echo "done";
-});
+//Route::get("/test",function (){
+//    \Illuminate\Support\Facades\Mail::to("MoatasemKaron99@gmail.com")->send(new \App\Mail\testMail());
+//    echo "done";
+//});
 
 Route::post("get/areas/by/region",[\App\Http\Controllers\Admin\AddbyadminController::class,"get_areas_by_region"])->name('get_areas_by_region');
+
+
+Route::any("test-network",[\App\Http\Controllers\Admin\AddbyadminController::class,"network"])->name('get_areas_by_region');

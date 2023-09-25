@@ -62,36 +62,40 @@
     </div>
 
 
-    <section class="section">
-        <div class="row">
-            <div class="col-lg-12">
-
-                <div class="card">
-                    <div class="card-body">
-                        <button class="btn btn-danger mt-2" data-bs-toggle="modal" data-bs-target="#basicModal">كود جديد</button>
 
 
-                    </div>
+    <div class="row">
+        <div class="col-md-10">
+            <div class="form-floating mb-3">
+                <select class="form-select" id="select_element" onchange="show_the_section()" aria-label="State">
 
+                    <option selected disabled>Select Now</option>
+                    @foreach($categorys as $category)
+                    <option value="category_{{$category->id}}">{{$category->title}}</option>
+                        @endforeach
 
-
-                </div>
-
+                </select>
+                <label for="floatingSelect">State</label>
             </div>
         </div>
-    </section>
+
+        <div class="col-xl-2"> <button class="btn btn-danger mt-2" data-bs-toggle="modal" data-bs-target="#basicModal">كود جديد</button>
+        </div>
+
+    </div>
 
   @foreach($categorys as $category)
       @if($category->hashcode=="8000")
           @if($category->pool_codes!=null && $category->pool_codes->count()>0)
 
-              <section class="section">
-                  <div class="row">
+              <section class="section category_sections" id="category_{{$category->id}}" style="display: none">
+
+              <div class="row">
                       <div class="col-lg-12">
 
                           <div class="card">
                               <div style="padding:10px">
-                                  <h5 class="card-title"> اكواد خصم {{$category->title}}  </h5>
+                                  <center> <h4 class="card-title" style="font-weight: bold;color: red"> اكواد خصم {{$category->title}}  </h4></center>
 
                                 <div class="table-responsive-xl">
                                   <table class="table table-bordered" style="direction: rtl">
@@ -118,7 +122,7 @@
                                               <td>{{$code->offer}}</td>
 
                                               <td>{{$code->pool_place->title ?? "الكل"}}</td>
-                                              <td> <a href="#" class="btn bg-danger badge">حذف</td>
+                                              <td> <a href="#" class="btn bg-danger badge">Delete Now</a></td>
 
 
 
@@ -145,13 +149,13 @@
       @if($category->hashcode!="8000")
       @if($category->seller_codes!=null && $category->seller_codes->count()>0)
 
-          <section class="section">
+          <section class="section category_sections" id="category_{{$category->id}}" style="display: none">
           <div class="row">
               <div class="col-lg-12">
 
                   <div class="card">
                       <div  style="padding:10px">
-                          <h5 class="card-title"> اكواد خصم {{$category->title}}  </h5>
+                         <center> <h4 class="card-title" style="font-weight: bold;color: red"> اكواد خصم {{$category->title}}  </h4></center>
 
 
                               <div class="table-responsive-xl">
@@ -218,7 +222,7 @@
 
                     },
                     success: function (data) {
-                        if(data.state==true){
+                        if(data.status==true){
                             var sub_category=document.getElementById("places");
                             sub_category.innerHTML="<option selected disabled>Choose....</option>";
                             sub_category.innerHTML= sub_category.innerHTML+"<option value='all' >الكل</option>";
@@ -241,4 +245,33 @@
             }
         }
     </script>
+
+    <script>
+
+        function show_the_section() {
+
+            let category_sections=document.getElementsByClassName("category_sections");
+            // Hide
+            // showAlert();
+            for (x=0 ; x<category_sections.length ;x++){
+                category_sections[x].style.display = 'none'
+            }
+            select_element=document.getElementById("select_element");
+
+            console.log(select_element.value);
+
+
+                document.getElementById(select_element.value).style.display="block";
+
+
+                //document.getElementById("accept_orders").style.display="block";
+
+
+
+        }
+
+
+    </script>
+
+
 @endsection

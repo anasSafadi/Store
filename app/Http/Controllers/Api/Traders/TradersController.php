@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Api\Traders;
 
 use App\Http\Controllers\Controller;
 
+use App\Http\Resources\Seller\GetProducts;
 use App\Http\Resources\Traders\Codes_offers;
 use App\Models\Admin\codes\Seller_code;
 use App\Models\Files;
@@ -17,10 +18,18 @@ use Illuminate\Support\Facades\Validator;
 
 class TradersController extends Controller
 {
+    public function get_products_by_category($id){
+       $product=seller_product::where("seller_place_id",$id)
+           ->where("seller_id",auth("seller_api")->user()->id)->get();
+       if (!$product){
+           $product=[];
+       }
+       return response()->json(["status"=>true,"data"=>GetProducts::collection($product)]);
+    }
     public function get_category_seller(){
         $id_seller=auth("seller_api")->user()->id;
 
-        $data= $eixst_title=sub_category_seller::where('seller_id',$id_seller)
+        $data=sub_category_seller::where('seller_id',$id_seller)
             ->get();
 
         return response()->json(["status"=>true,"data"=>$data]);
@@ -160,7 +169,7 @@ class TradersController extends Controller
                            return response()->json(["status"=>true,"msg"=>"تم الحذف بنجاح"]);
 
                    }
-                   else{ return response()->json(["status"=>false,"msg"=>"لا يمكنك حذف هذا الكود لانه غير ملكك"]);}
+                   else{ return response()->json(["status"=>false,"msg"=>"لايمكنك حذف هذا االكود "]);}
 
                }
                else{ return response()->json(["status"=>false,"msg"=>"The id of code not found"]);}

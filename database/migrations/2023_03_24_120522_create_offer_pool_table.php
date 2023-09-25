@@ -16,7 +16,7 @@ class CreateOfferPoolTable extends Migration
         Schema::create('offer_pool', function (Blueprint $table) {
             $table->id();
             $table->string("new_price");
-            $table->enum("status");
+            $table->enum("status",["Active","NotActive"]);
             $table->unsignedBigInteger("the_period_pool_id")->nullable();
             $table->foreign("the_period_pool_id")->references("id")->on("the_period_pools")->onDelete('cascade')->onUpdate("cascade");
 

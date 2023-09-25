@@ -60,6 +60,7 @@ class AdsController extends Controller
            $auth_seller=auth("seller_api")->user();
            $seller=Seller::findorfail($auth_seller->id);
            $data=$seller->get_sms_ads_orders;
+
            if (!$seller->get_sms_ads_orders){
                $data=[];
            }

@@ -25,6 +25,9 @@ use Illuminate\Support\Facades\Validator;
 
 class AddbyadminController extends Controller
 {
+    public function network(Request $request){
+        dd($request->toArray());
+    }
     public function get_areas_by_region(Request $request){
        $areas=Area::where("region_id","=",$request->regions_id)->get();
 

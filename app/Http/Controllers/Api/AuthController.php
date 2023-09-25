@@ -20,6 +20,7 @@ class AuthController extends Controller
 }
     public function login(Request $request)
     {
+         dd($request);
         $guard= strtolower($request->guard);
         $message=[
             'guard.required'=>'الرجاء تحديد صفة الدخول تاجر ام مستخدم',

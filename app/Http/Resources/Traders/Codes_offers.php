@@ -14,9 +14,14 @@ class Codes_offers extends JsonResource
      */
     public function toArray($request)
     {
+        $who_Add='Seller';
+        if (is_null($this->seller_place_id)){
+            $who_Add="Admin";
+        }
         return [
             "id"=>$this->id,
             "code"=>$this->code,
+            "add_by"=>$who_Add
         ];
     }
 }
